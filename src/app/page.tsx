@@ -7,7 +7,7 @@ import { ArrowDown, ArrowDownToLine, ArrowRight, BadgeCheck, Check, ChevronDown,
 type VideoResult = { id: string; title: string; author: string; cover: string; hasHd: boolean; hasAudio: boolean };
 
 const faqs = [
-  { q: "Apakah TikTookSaver gratis digunakan?", a: "Ya. Anda dapat memakai alat ini tanpa membuat akun. Ketersediaan unduhan bergantung pada video publik dan layanan sumber yang digunakan." },
+  { q: "Apakah TikTokSaver gratis digunakan?", a: "Ya. Anda dapat memakai alat ini tanpa membuat akun. Ketersediaan unduhan bergantung pada video publik dan layanan sumber yang digunakan." },
   { q: "Apakah saya perlu memasang aplikasi?", a: "Tidak perlu. Cukup buka TikTookSaver melalui browser di ponsel, tablet, atau komputer, lalu tempel tautan video TikTok." },
   { q: "Video seperti apa yang dapat diunduh?", a: "Video publik yang tautannya dapat diakses oleh layanan sumber. Konten privat, dihapus, dibatasi wilayah, atau tidak mengizinkan akses mungkin tidak tersedia." },
   { q: "Bisakah saya menyimpan audio saja?", a: "Bisa, jika sumber menyediakan berkas audio. Setelah tautan diproses, pilih opsi MP3 pada hasil unduhan." },
@@ -15,7 +15,7 @@ const faqs = [
 ];
 
 function Logo({ light = false }: { light?: boolean }) {
-  return <Link href="/" className={`logo ${light ? "logo-light" : ""}`} aria-label="TikTookSaver beranda"><span className="logo-symbol"><Play size={17} fill="currentColor" strokeWidth={2.5} /></span><span>tiktook<span className="logo-accent">saver</span><span className="logo-dot">.</span></span></Link>;
+  return <Link href="/" className={`logo ${light ? "logo-light" : ""}`} aria-label="TikTokSaver beranda"><span className="logo-symbol"><Play size={17} fill="currentColor" strokeWidth={2.5} /></span><span>tiktook<span className="logo-accent">saver</span><span className="logo-dot">.</span></span></Link>;
 }
 
 export default function HomePage() {
