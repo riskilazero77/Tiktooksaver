@@ -3,11 +3,11 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "TikTookSaver — Simpan Video TikTok dengan Mudah",
+  title: "TikTokSaver — Simpan Video TikTok dengan Mudah",
   description: "Simpan momen favorit dari TikTok dalam beberapa klik. TikTookSaver membantu Anda mengunduh video dan audio dari tautan publik dengan cepat, simpel, dan nyaman di semua perangkat.",
-  keywords: ["TikTookSaver", "unduh video TikTok", "TikTok downloader", "simpan video TikTok", "TikTok MP4"],
+  keywords: ["TikTokSaver", "unduh video TikTok", "TikTok downloader", "simpan video TikTok", "TikTok MP4"],
   openGraph: {
-    title: "TikTookSaver — Momen favoritmu, selalu dekat",
+    title: "TikTokSaver — Momen favoritmu, selalu dekat",
     description: "Cara praktis menyimpan video dan audio TikTok favorit dari tautan publik.",
     type: "website",
     locale: "id_ID",
