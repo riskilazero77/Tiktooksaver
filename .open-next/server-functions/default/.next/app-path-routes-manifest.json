@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/download/route": "/api/download",
+  "/api/health/route": "/api/health",
+  "/api/resolve/route": "/api/resolve",
+  "/page": "/",
+  "/panduan-cloudflare/page": "/panduan-cloudflare"
+}
