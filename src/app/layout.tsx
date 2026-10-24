@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "TikTokSaver — Simpan Video TikTok dengan Mudah",
-  description: "Simpan momen favorit dari TikTok dalam beberapa klik. TikTookSaver membantu Anda mengunduh video dan audio dari tautan publik dengan cepat, simpel, dan nyaman di semua perangkat.",
+  description: "Simpan momen favorit dari TikTok dalam beberapa klik. TikTokSaver membantu Anda mengunduh video dan audio dari tautan publik dengan cepat, simpel, dan nyaman di semua perangkat.",
   keywords: ["TikTokSaver", "unduh video TikTok", "TikTok downloader", "simpan video TikTok", "TikTok MP4"],
   openGraph: {
     title: "TikTokSaver — Momen favoritmu, selalu dekat",
